@@ -6,7 +6,10 @@ body{
 }
 
 #contact{
-    background-color: #fff;
+    background: url(../img/kitten.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 /* Header */
@@ -69,11 +72,16 @@ footer{
 footer p{
     display: flex;
     justify-content: center;
-    margin: 0 auto;
+    align-items: center;
     color: #fff;
-    font-size: .75em;
+    font-size: 1em;
 }
 
+.icon{
+    width: 2em;
+    margin-left: .5em;
+    margin-top: -1.5em;
+}
 /********************
 MEDIA QUERIES
 *******************/
