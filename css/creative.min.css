@@ -45,7 +45,7 @@ h6 {
 }
 
 hr {
-    border-color: #CBB677;
+    border-color: #ff008a;
     border-width: 3px;
     max-width: 50px
 }
@@ -56,12 +56,12 @@ hr.light {
 
 a {
     transition: all .35s;
-    color: #CBB677
+    color: #ff008a
 }
 
 a:focus,
 a:hover {
-    color: #CBB677
+    color: #ff008a
 }
 
 p {
@@ -119,7 +119,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand:focus,
 .navbar-default .navbar-header .navbar-brand:hover {
-    color: #CBB677
+    color: #ff008a
 }
 
 .navbar-default .navbar-header .navbar-toggle {
@@ -140,12 +140,12 @@ aside {
 
 .navbar-default .nav>li>a:focus:hover,
 .navbar-default .nav>li>a:hover {
-    color: #CBB677
+    color: #ff008a
 }
 
 .navbar-default .nav>li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #CBB677!important;
+    color: #ff008a!important;
     background-color: transparent
 }
 
@@ -179,7 +179,7 @@ aside {
         border-color: rgba(34, 34, 34, .05)
     }
     .navbar-default.affix .navbar-header .navbar-brand {
-        color: #CBB677;
+        color: #ff008a;
         font-size: 14px
     }
     .navbar-default.affix .navbar-header .navbar-brand:focus,
@@ -192,7 +192,7 @@ aside {
     }
     .navbar-default.affix .nav>li>a:focus:hover,
     .navbar-default.affix .nav>li>a:hover {
-        color: #CBB677
+        color: #ff008a
     }
 }
 
@@ -261,11 +261,11 @@ header .header-content .header-content-inner p {
 
 .section-heading {
     margin-top: 0;
-    color: #cbb677;
+    color: #ff008a;
 }
 
 .gold{
-    color: #cbb677;
+    color: #ff008a;
 }
 
 .gold-faded{
@@ -345,7 +345,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #CBB677
+    color: #ff008a
 }
 
 section #info{
@@ -404,8 +404,8 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary {
     color: #fff;
-    background-color: #CBB677;
-    border-color: #CBB677;
+    background-color: #ff008a;
+    border-color: #ff008a;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s
@@ -440,12 +440,12 @@ fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
-    background-color: #CBB677;
-    border-color: #CBB677
+    background-color: #ff008a;
+    border-color: #ff008a
 }
 
 .btn-primary .badge {
-    color: #CBB677;
+    color: #ff008a;
     background-color: #fff
 }
 
